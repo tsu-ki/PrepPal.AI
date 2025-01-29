@@ -41,6 +41,6 @@ Deployed the project on Vercel, ensuring efficient and reliable performance.
  
 ### workflow 
 
-<img width="790" alt="Screenshot 2024-06-29 at 3 32 23 PM" src="https://drive.google.com/file/d/1I7amTnH_MUbulW4Tq2CagfpgtYDeCct9/view?usp=sharing">
+<img width="790" alt="Screenshot 2024-06-29 at 3 32 23 PM" src="[https://drive.google.com/file/d/1I7amTnH_MUbulW4Tq2CagfpgtYDeCct9/view?usp=sharing](https://ibb.co/Jw1TPxNy)">
 <img width="828" alt="Screenshot 2024-06-26 at 2 11 34 PM" src="https://drive.google.com/file/d/1rXg4QDCPTv1he-G32sOO8XBU5Z1iKtld/view?usp=sharing">
 
